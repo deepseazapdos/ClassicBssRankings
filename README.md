@@ -1,5 +1,5 @@
 # ClassicBssRankings
-Browse through rankings of past generation Battle Stadium Singles competitions.
+Browse through rankings of past generation Battle Stadium Singles competitions. Visit the website here: https://deepseazapdos.github.io/ClassicBssRankings/
 ## To do
 * Create missing pages as more sources are collected
 * Dig for more potential missing scores
