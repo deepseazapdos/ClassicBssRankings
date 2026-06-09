@@ -1,0 +1,117 @@
+[
+  {
+    "id": 0,
+    "name": "none",
+    "alt": "None"
+  },
+  {
+    "id": 1,
+    "name": "poke-ball",
+    "alt": "Poké Ball"
+  },
+  {
+    "id": 2,
+    "name": "great-ball",
+    "alt": "Great Ball"
+  },
+  {
+    "id": 3,
+    "name": "ultra-ball",
+    "alt": "Ultra Ball"
+  },
+  {
+    "id": 4,
+    "name": "moomoo-milk",
+    "alt": "Moomoo Milk"
+  },
+  {
+    "id": 5,
+    "name": "chesto-berry",
+    "alt": "Chesto Berry"
+  },
+  {
+    "id": 6,
+    "name": "kyogre",
+    "alt": "Kyogre Doll"
+  },
+  {
+    "id": 7,
+    "name": "jirachi",
+    "alt": "Jirachi Doll"
+  },
+  {
+    "id": 8,
+    "name": "scraggy",
+    "alt": "Scraggy Doll"
+  },
+  {
+    "id": 9,
+    "name": "lugia",
+    "alt": "Lugia Doll"
+  },
+  {
+    "id": 10,
+    "name": "rayquaza",
+    "alt": "Rayquaza Doll"
+  },
+  {
+    "id": 11,
+    "name": "celebi",
+    "alt": "Celebi Doll"
+  },
+  {
+    "id": 12,
+    "name": "gold-unidentified",
+    "alt": "Golden Trophy (unidentified)"
+  },
+  {
+    "id": 13,
+    "name": "silver-unidentified",
+    "alt": "Silver Trophy (unidentified)"
+  },
+  {
+    "id": 14,
+    "name": "pansage",
+    "alt": "Pansage Doll"
+  },
+  {
+    "id": 15,
+    "name": "energy-root",
+    "alt": "Energy Root"
+  },
+  {
+    "id": 16,
+    "name": "mew",
+    "alt": "Mew Doll"
+  },
+  {
+    "id": 17,
+    "name": "bisharp",
+    "alt": "Bisharp Doll"
+  },
+  {
+    "id": 18,
+    "name": "chople-berry",
+    "alt": "Chople Berry"
+  },
+  {
+    "id": 19,
+    "name": "haban-berry",
+    "alt": "Haban Berry"
+  },
+  {
+    "id": 20,
+    "name": "eevee",
+    "alt": "Eevee Doll"
+  },
+  {
+    "id": 21,
+    "name": "wobbufett",
+    "alt": "Wobbufett Doll"
+  },
+  {
+    "id": 22,
+    "name": "snivy",
+    "alt": "Snivy Doll"
+  }
+]

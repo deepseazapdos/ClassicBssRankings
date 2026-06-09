@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "[???]",
+    "alt": "Unknown"
+  },
+  {
+    "id": 1,
+    "name": "[JPN]",
+    "alt": "Japan"
+  },
+  {
+    "id": 2,
+    "name": "[KOR]",
+    "alt": "South Korea"
+  },
+  {
+    "id": 3,
+    "name": "[USA]",
+    "alt": "United States of America"
+  },
+  {
+    "id": 4,
+    "name": "[MEX]",
+    "alt": "Mexico"
+  },
+  {
+    "id": 5,
+    "name": "[FRA]",
+    "alt": "France"
+  },
+  {
+    "id": 6,
+    "name": "[GTM]",
+    "alt": "Guatemala"
+  },
+  {
+    "id": 7,
+    "name": "[CAN]",
+    "alt": "Canada"
+  }
+]

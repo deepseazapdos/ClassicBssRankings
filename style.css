@@ -1,0 +1,42 @@
+/* Text */
+h1, h2, h3 {
+    font-family: 'Segoe UI';
+}
+
+a, p, ol, ul, li {
+    font-family: 'Segoe UI';
+}
+
+details, summary {
+    font-family: 'Segoe UI';
+}
+
+/* Image */
+.competition-banner {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.pglavatar {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+/* Table */
+table {
+    width: 100%;
+    margin: 25px 0;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+}

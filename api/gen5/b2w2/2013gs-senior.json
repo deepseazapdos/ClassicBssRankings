@@ -1,0 +1,322 @@
+[
+  {
+    "pgl_data": {
+      "world_placement": 1,
+      "region_placement": null,
+      "pgl_avatar": 13,
+      "pgl_username": "shinhowaito",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 2,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "yasutaka7",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 3,
+      "region_placement": null,
+      "pgl_avatar": 3,
+      "pgl_username": "Yons",
+      "rating": null,
+      "region": 2
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 4,
+      "region_placement": null,
+      "pgl_avatar": 6,
+      "pgl_username": "Chaos6",
+      "rating": null,
+      "region": 2
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 5,
+      "region_placement": null,
+      "pgl_avatar": 4,
+      "pgl_username": "Crong",
+      "rating": null,
+      "region": 2
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 6,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "rumorumo",
+      "rating": 1929,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": "ひじり"
+    },
+    "notes": "Mouseover reveals the rating and IGN",
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 7,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "LimeTree",
+      "rating": null,
+      "region": 2
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 8,
+      "region_placement": null,
+      "pgl_avatar": 5,
+      "pgl_username": "Karewara",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 9,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "hatakepati",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 10,
+      "region_placement": null,
+      "pgl_avatar": 7,
+      "pgl_username": "Redstar94",
+      "rating": null,
+      "region": 3
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 20,
+      "region_placement": null,
+      "pgl_avatar": 8,
+      "pgl_username": "7takuto4",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 21,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "stork1154",
+      "rating": null,
+      "region": 2
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 22,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "itoshun2000",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 23,
+      "region_placement": null,
+      "pgl_avatar": 6,
+      "pgl_username": "rytr",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 24,
+      "region_placement": null,
+      "pgl_avatar": 3,
+      "pgl_username": "Macha5231",
+      "rating": null,
+      "region": 3
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 25,
+      "region_placement": 1,
+      "pgl_avatar": 9,
+      "pgl_username": "Danilinky",
+      "rating": null,
+      "region": 4
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": "#1 in Mexico",
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 26,
+      "region_placement": null,
+      "pgl_avatar": 3,
+      "pgl_username": "nazonosisilya",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 27,
+      "region_placement": null,
+      "pgl_avatar": 10,
+      "pgl_username": "bintyan1",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 28,
+      "region_placement": null,
+      "pgl_avatar": 11,
+      "pgl_username": "powaaaa",
+      "rating": null,
+      "region": 5
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 29,
+      "region_placement": null,
+      "pgl_avatar": 1,
+      "pgl_username": "taityo2",
+      "rating": null,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  }
+]

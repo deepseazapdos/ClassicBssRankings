@@ -1,0 +1,98 @@
+[
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1802,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Pokémon Breeder (Male)",
+      "trainer_name": null
+    },
+    "notes": "IGN is censored",
+    "sources": [3, 4]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 282,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1665,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [1]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1545,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [7]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1537,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Lass",
+      "trainer_name": "ゆき"
+    },
+    "notes": null,
+    "sources": [6]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 11263,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1474,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [2]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1450,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [5]
+  }
+]
