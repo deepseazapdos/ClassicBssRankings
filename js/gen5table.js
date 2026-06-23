@@ -150,7 +150,7 @@ export async function fetchUsage(usageURL) {
                 usageHtmlContent += `<div class='usagestatscard-1'>`;
 
                 usageHtmlContent += `<h2 class='placementnumber'>${entry.rank ?? "?"}</h2>`;
-                usageHtmlContent += `<img src='/img/dream/gen5/${entry.species}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')">`
+                usageHtmlContent += `<img src='../../img/dream/gen5/${entry.species.toLowerCase()}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')">`
                 usageHtmlContent += `<h3>${entry.species ?? ""}</h3></div>`;
 
                 // Close grid area
@@ -167,7 +167,7 @@ export async function fetchUsage(usageURL) {
                 usageHtmlContent += `<div class='usagestatscard-25'>`;
 
                 usageHtmlContent += `<h2 class='placementnumber'>${entry.rank ?? "?"}</h2>`;
-                usageHtmlContent += `<img src='../../img/dream/gen5/${entry.species}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
+                usageHtmlContent += `<img src='../../img/dream/gen5/${entry.species.toLowerCase()}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
 
                 // Close grid area
                 if (entry.rank == 5 && gridAreaFlag) {
@@ -186,7 +186,7 @@ export async function fetchUsage(usageURL) {
                 usageHtmlContent += `<div class='usagestatscard-610'>`;
 
                 usageHtmlContent += `<h2 class='placementnumber'>${entry.rank ?? "?"}</h2>`;
-                usageHtmlContent += `<img src='/img/dream/gen5/${entry.species}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
+                usageHtmlContent += `<img src='../../img/dream/gen5/${entry.species.toLowerCase()}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
                 
                 // Close grid area
                 if (entry.rank == 10 && gridAreaFlag) {
