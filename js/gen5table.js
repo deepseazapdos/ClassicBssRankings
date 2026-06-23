@@ -262,7 +262,7 @@ export async function fetchUsageDateList(usageURL, season) {
 
         // Function for date selection
         function selectDate(event) {
-            fetchUsage('../../../api/gen5/b2w2/s' + season + '-' + event.target.value + '-usage.json');
+            fetchUsage('../../api/gen5/b2w2/s' + season + '-' + event.target.value + '-usage.json');
         }
 
         // Event listener for date selection
