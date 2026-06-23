@@ -11,6 +11,10 @@ details, summary {
     font-family: 'Segoe UI';
 }
 
+label {
+    font-family: 'Segoe UI';
+}
+
 /* Image */
 .competition-banner {
     max-width: 400px;
@@ -39,4 +43,156 @@ th, td {
     border-collapse: collapse;
     text-align: center;
     vertical-align: middle;
+}
+
+/* Pokémon usage stats cards */
+.usagestatscontainer {
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(16, 58, 98);
+
+    display: grid;
+    grid-template-areas: "top1 top25 top25 top25 top25 top25"
+                         "top1 top610 top610 top610 top610 top610";
+}
+
+.usagestatsgrid-1 {
+    display: flex;
+    grid-area: top1;
+}
+
+.usagestatsgrid-25 {
+    display: flex;
+    grid-area: top25;
+}
+
+.usagestatsgrid-610 {
+    display: flex;
+    grid-area: top610;
+}
+
+.usagestatscard-1 {
+    min-width: 266px;
+    max-width: 266px;
+    min-height: 278px;
+    max-height: 278px;
+    border: 1px solid rgb(120, 190, 180, 0.25);
+    box-shadow: inset 0px 0px 20px 2px rgba(120, 190, 180, 0.25);
+
+    display: grid;
+    grid-template-areas: "rank img ."
+                         ". img ."
+                         "info1 info1 info1"
+                         "info2 info2 info2";
+}
+
+.usagestatscard-25 {
+    min-width: 133px;
+    max-width: 133px;
+    min-height: 138px;
+    max-height: 138px;
+    border: 1px solid rgb(120, 190, 180, 0.25);
+    box-shadow: inset 0px 0px 20px 2px rgba(120, 190, 180, 0.25);
+
+    position: relative;
+    display: grid;
+    grid-template-areas: "rank img ."
+                         ". img .";
+}
+
+.usagestatscard-610 {
+    min-width: 106px;
+    max-width: 106px;
+    min-height: 138px;
+    max-height: 138px;
+    border: 1px solid rgb(120, 190, 180, 0.25);
+    box-shadow: inset 0px 0px 20px 2px rgba(120, 190, 180, 0.25);
+
+    position: relative;
+    display: grid;
+    grid-template-areas: "rank"
+                         "img";
+}
+
+.usagestatscard-1:hover, .usagestatscard-25:hover, .usagestatscard-610:hover {
+    background-color: rgba(120, 120, 120, 0.10);
+    box-shadow: inset 0px 0px 20px 3px rgba(200, 200, 200, 0.25);
+}
+
+.usagestatscard-1 img {
+    max-width: 194px;
+    max-height: 194px;
+    grid-area: img;
+}
+
+.usagestatscard-25 img {
+    max-width: 118px;
+    max-height: 118px;
+    align-self: center;
+    justify-self: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    grid-area: img;
+}
+
+.usagestatscard-610 img {
+    max-width: 98px;
+    max-height: 98px;
+    align-self: center;
+    justify-self: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: 0px;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    grid-area: img;
+}
+
+.image-fade {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.image-fade.loaded {
+    opacity: 1;
+}
+
+.usagestatscard-1 .placementnumber {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 32px;
+    color: rgb(139, 139, 139);
+    grid-area: rank;
+}
+
+.usagestatscard-25 .placementnumber {
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 32px;
+    color: rgb(139, 139, 139);
+    grid-area: rank;
+}
+
+.usagestatscard-610 .placementnumber {
+    position: absolute;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 32px;
+    color: rgb(139, 139, 139);
+    grid-area: rank;
+}
+
+.usagestatscard-1 h3 {
+    color: rgb(58, 173, 210);
+    grid-area: info1;
+}
+
+.usagestatscard-1 hr {
+    color: rgb(98, 120, 142);
+    grid-area: info1;
 }
