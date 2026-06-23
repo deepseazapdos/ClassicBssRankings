@@ -167,7 +167,7 @@ export async function fetchUsage(usageURL) {
                 usageHtmlContent += `<div class='usagestatscard-25'>`;
 
                 usageHtmlContent += `<h2 class='placementnumber'>${entry.rank ?? "?"}</h2>`;
-                usageHtmlContent += `<img src='/img/dream/gen5/${entry.species}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
+                usageHtmlContent += `<img src='../../img/dream/gen5/${entry.species}.png' alt='${entry.species} Dream World artwork' class='image-fade' onload="this.classList.add('loaded')"></div>`
 
                 // Close grid area
                 if (entry.rank == 5 && gridAreaFlag) {
