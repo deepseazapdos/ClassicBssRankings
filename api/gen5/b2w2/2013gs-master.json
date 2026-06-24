@@ -117,15 +117,15 @@
       "region_placement": null,
       "pgl_avatar": 1,
       "pgl_username": "AkazaAkari",
-      "rating": null,
+      "rating": 1930,
       "region": 1
     },
     "game_data": {
       "trainer_class_avatar": null,
       "trainer_name": null
     },
-    "notes": "Image 1 is complete, mouseover on Image 2 covers the PGL username and country",
-    "sources": [1, 2]
+    "notes": "Image 1 is complete, mouseover on Image 2 covers the PGL username and country. The placement is found on the blog entry named \"Top\" and the final rating is on the team report",
+    "sources": [1, 2, 14]
   },
   {
     "pgl_data": {
