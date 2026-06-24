@@ -35,6 +35,22 @@
     "pgl_data": {
       "world_placement": null,
       "region_placement": null,
+      "pgl_avatar": 20,
+      "pgl_username": "donayanma",
+      "rating": 1560,
+      "region": 1
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": "PGL information cross-referenced with the 2013 Global Showdown ranking screenshot and blog entry",
+    "sources": [8]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
       "pgl_avatar": null,
       "pgl_username": null,
       "rating": 1545,

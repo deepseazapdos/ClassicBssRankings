@@ -257,6 +257,22 @@
   },
   {
     "pgl_data": {
+      "world_placement": 104,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1806,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Scientist (Male)",
+      "trainer_name": "ユン"
+    },
+    "notes": null,
+    "sources": [18]
+  },
+  {
+    "pgl_data": {
       "world_placement": 121,
       "region_placement": null,
       "pgl_avatar": 19,
@@ -325,7 +341,7 @@
       "region_placement": null,
       "pgl_avatar": 20,
       "pgl_username": "donayanma",
-      "rating": null,
+      "rating": 1802,
       "region": 1
     },
     "game_data": {
@@ -333,7 +349,7 @@
       "trainer_name": null
     },
     "notes": null,
-    "sources": [1]
+    "sources": [1, 21]
   },
   {
     "pgl_data": {
@@ -449,6 +465,38 @@
   },
   {
     "pgl_data": {
+      "world_placement": 298,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": null,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": "1st day rating was 1700 but the final rating is unknown",
+    "sources": [19]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1713,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Scientist (Male)",
+      "trainer_name": "CHI3"
+    },
+    "notes": null,
+    "sources": [16]
+  },
+  {
+    "pgl_data": {
       "world_placement": null,
       "region_placement": null,
       "pgl_avatar": null,
@@ -469,6 +517,22 @@
       "region_placement": null,
       "pgl_avatar": null,
       "pgl_username": null,
+      "rating": 1624,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Scientist (Male)",
+      "trainer_name": "ばのばの"
+    },
+    "notes": null,
+    "sources": [15]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
       "rating": 1617,
       "region": null
     },
@@ -478,6 +542,38 @@
     },
     "notes": null,
     "sources": [11]
+  },
+  {
+    "pgl_data": {
+      "world_placement": 1497,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1601,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [20]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1599,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [17]
   },
   {
     "pgl_data": {
