@@ -465,6 +465,22 @@
   },
   {
     "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1801,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": "Ace Trainer (Female)",
+      "trainer_name": "ゆいゆい♪"
+    },
+    "notes": "Ranks 126-131 are tied but the exact placement of this player is unknown",
+    "sources": [22]
+  },
+  {
+    "pgl_data": {
       "world_placement": 298,
       "region_placement": null,
       "pgl_avatar": null,
@@ -494,6 +510,22 @@
     },
     "notes": null,
     "sources": [16]
+  },
+  {
+    "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1705,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [23]
   },
   {
     "pgl_data": {

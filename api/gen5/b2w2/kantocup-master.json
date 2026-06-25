@@ -17,6 +17,22 @@
   },
   {
     "pgl_data": {
+      "world_placement": null,
+      "region_placement": null,
+      "pgl_avatar": null,
+      "pgl_username": null,
+      "rating": 1709,
+      "region": null
+    },
+    "game_data": {
+      "trainer_class_avatar": null,
+      "trainer_name": null
+    },
+    "notes": null,
+    "sources": [9]
+  },
+  {
+    "pgl_data": {
       "world_placement": 282,
       "region_placement": null,
       "pgl_avatar": null,
