@@ -113,5 +113,25 @@
     "id": 22,
     "name": "snivy",
     "alt": "Snivy Doll"
+  },
+  {
+    "id": 23,
+    "name": "escape-rope",
+    "alt": "Escape Rope"
+  },
+  {
+    "id": 24,
+    "name": "pikachu",
+    "alt": "Pikachu Doll"
+  },
+  {
+    "id": 25,
+    "name": "black-kyurem",
+    "alt": "Black Kyurem Doll"
+  },
+  {
+    "id": 26,
+    "name": "kasib-berry",
+    "alt": "Kasib Berry"
   }
 ]
